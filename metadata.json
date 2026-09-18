@@ -1,0 +1,6 @@
+{
+  "name": "MediTimeline AI",
+  "description": "Medical Document Intelligence & Patient Timeline (HE-05). Analyzes clinical documents, extracts key events and medications, and builds chronological patient timelines with source traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
